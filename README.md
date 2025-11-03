@@ -54,14 +54,4 @@ Dataset ini tersedia untuk penggunaan penelitian dan edukasi. Harap mencantumkan
 
 ---
 
-## Kontak
-
-Jika ada pertanyaan, saran, atau permintaan terkait dataset ini, silakan hubungi [email Anda atau link kontak].
-
----
-
 Terima kasih telah mengunjungi! Semoga dataset ini membantu Anda dalam memperoleh wawasan penting dan berkontribusi pada upaya pemberantasan penyalahgunaan narkoba.
-
----
-
-*Dokumentasi ini disusun dengan inspirasi dari gaya README.md repository Laravel yang terkenal dengan penjelasan detail dan terstruktur dengan baik.*
